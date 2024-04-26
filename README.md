@@ -1,4 +1,4 @@
-# Math Concepts Visualisations
+# Math Concepts Visualizations
 
-This repository is dedicated to exploring and visualizing various mathematical concepts utilizing [Manium](https://www.manim.community/).
+This repository is dedicated to exploring and visualizing various mathematical concepts utilizing [Manim](https://www.manim.community/).
 
